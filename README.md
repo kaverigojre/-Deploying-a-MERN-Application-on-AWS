@@ -1,4 +1,4 @@
-# MERN Application Deployment
+# MERN Application Deployment on AWS using Terrform to build AWS infra
 
 ## Overview
 
