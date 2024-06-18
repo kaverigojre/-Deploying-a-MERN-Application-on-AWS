@@ -440,34 +440,6 @@ ssh-add ~/.ssh/ansible_key
 ### Screenshots
 ![alt text](./screenshots/image_infra_design.png)
 
-![alt text](./screenshots/image-a.png)
-
-![alt text](./screenshots/image-a1.png)
-
-![alt text](./screenshots/image-a2.png)
-
-![alt text](./screenshots/image-a3.png)
-
-![alt text](./screenshots/image-a4.png)
-
-![alt text](./screenshots/image-a5.png)
-
-![alt text](./screenshots/image-a6.png)
-
-![alt text](./screenshots/image-a7.png)
-
-![alt text](./screenshots/image-a8.png)
-
-![alt text](./screenshots/image-a9.png)
-
-![alt text](./screenshots/image-a10.png)
-
-![alt text](./screenshots/image-a11.png)
-
-![alt text](./screenshots/image-a12.png)
-
-![alt text](./screenshots/image-a13.png)
-
 ![alt text](./screenshots/image-a14.png)
 
 ![alt text](./screenshots/image-a15.png)
@@ -489,10 +461,6 @@ ssh-add ~/.ssh/ansible_key
 ![alt text](./screenshots/image-a23.png)
 
 ![alt text](./screenshots/image-a24.png)
-
-![alt text](./screenshots/image-a25.png)
-
-![alt text](./screenshots/image-a26.png)
 
 ![alt text](./screenshots/image-a27.png)
 
